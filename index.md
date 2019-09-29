@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my Word hihi
 
 You can use the [editor on GitHub](https://github.com/cpd123/youfire/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
